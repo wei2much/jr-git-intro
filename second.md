@@ -1,1 +1,1 @@
-this is the second file
+A different way to rewrite this line
